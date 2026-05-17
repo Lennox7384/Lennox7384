@@ -6,7 +6,7 @@ I build things that hold up under real-world pressure: simulations of safety-cri
 
 ## Where I'm heading
 
-Long-range, I'm building toward crypto and blockchain engineering. The intersection of cryptography, distributed systems, and money is where I want my career to sit. Short-range, I'm interviewing for general software engineering, full-stack, and data engineering roles that put me near production systems and let me ship real things.
+Long-range, I'm building toward DeFi and blockchain engineering. The intersection of cryptography, distributed systems, and money is where I want my career to sit. Short-range, I'm interviewing for general software engineering, full-stack, and data engineering roles that put me near production systems and let me ship real things.
 
 ## How I work
 
@@ -52,4 +52,4 @@ Java OOP exercise built around two domain classes with a 16-test JUnit suite. Bo
 - LinkedIn: [linkedin.com/in/lennox-m-638b0a237](https://www.linkedin.com/in/lennox-m-638b0a237)
 - Email: lennox49magak@outlook.com
 
-I respond fast. If you're hiring for crypto, fintech, or any role where engineering rigor matters more than the language on the JD, send a note.
+I respond fast. If you're hiring for DeFi, fintech, or any role where engineering rigor matters more than the language on the JD, send a note.
