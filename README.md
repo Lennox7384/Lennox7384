@@ -4,9 +4,9 @@ Software engineer. BA in Computer Science and a Minor in Data Analytics, May 202
 
 I build things that hold up under real-world pressure: simulations of safety-critical systems, full-stack web apps for real client organizations and statistical analyses. My instinct is to make the test pass, then make the system explain itself to the next person who reads it.
 
-## Where I'm heading
+## What draws me
 
-Long-range, I'm building toward DeFi and blockchain engineering. The intersection of cryptography, distributed systems, and money is where I want my career to sit. Short-range, I'm interviewing for general software engineering, full-stack, and data engineering roles that put me near production systems and let me ship real things.
+I gravitate to problems where correctness is not optional: systems that fail loudly and expensively when they are wrong. That runs from safety-critical and embedded software through distributed systems, security, and the cryptography-and-money problems in DeFi. What ties them together is the engineering discipline they all demand.
 
 ## How I work
 
@@ -52,4 +52,4 @@ Java OOP exercise built around two domain classes with a 16-test JUnit suite. Bo
 - LinkedIn: [linkedin.com/in/lennox-m-638b0a237](https://www.linkedin.com/in/lennox-m-638b0a237)
 - Email: lennox49magak@outlook.com
 
-I respond fast. If you're hiring for DeFi, fintech, or any role where engineering rigor matters more than the language on the JD, send a note.
+I respond fast. If you're hiring for a role where engineering rigor matters more than the language on the JD, send a note.
