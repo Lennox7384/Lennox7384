@@ -2,7 +2,7 @@
 
 Software engineer. BA in Computer Science and a Minor in Data Analytics, May 2026. Based in Moorhead, MN; open to relocation.
 
-I build things that hold up under real-world pressure: simulations of safety-critical systems, full-stack web apps for real client organizations and statistical analyses. My instinct is to make the test pass, then make the system explain itself to the next person who reads it.
+I build systems that hold up under real-world pressure: simulations of safety-critical systems, full-stack web apps for real client organizations and statistical analyses. My instinct is to make the test pass, then make the system explain itself to the next person who reads it.
 
 ## What draws me
 
