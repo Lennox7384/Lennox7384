@@ -23,6 +23,9 @@ I cite the numbers I claim. When I say a regression model explains 49.6% of stat
 ### [project-railguard](https://github.com/Lennox7384/project-railguard)
 Safety-critical railway-crossing simulation. Boolean state machine, Fault Tree Analysis driving the requirements, React 19 + Vite + vitest. Built as a team project; I owned the hazard-analysis track end to end.
 
+### [systems-programming-c](https://github.com/Lennox7384/systems-programming-c)
+Core operating-system mechanisms in C on Linux: process creation with fork/exec/waitpid, thread synchronization with a pthread mutex, a semaphore-based bounded-buffer producer/consumer, and the Banker's algorithm for deadlock avoidance, plus a best-fit contiguous memory allocator in Python. Each module ships with notes on what its output demonstrates.
+
 ### [entrepreneurship-club-website](https://github.com/Lennox7384/entrepreneurship-club-website)
 Full-stack PHP/MySQL website I built with a four-person team for a real student-run client organization. Public pages plus a back-of-house admin panel for event and member management. I owned the Schedule (events) feature end to end.
 
