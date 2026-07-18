@@ -6,7 +6,7 @@ software for real clients and reviewers.
 
 ## What draws me
 
-I gravitate toward problems where correctness is not optional: systems that fail loudly and expensively when they are wrong. That runs from safety-critical and embedded software through distributed systems, security, and the cryptography-and-money problems in DeFi. What ties them together is the engineering rigor they all demand.
+I gravitate toward problems where correctness is not optional: systems that fail loudly and expensively when they are wrong. That runs from safety-critical and embedded software through distributed systems, and the cryptography-and-money problems in DeFi. What ties them together is the engineering rigor they all demand.
 
 ## Featured Work
 
