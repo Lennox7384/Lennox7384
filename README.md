@@ -1,6 +1,8 @@
 # Hi, I'm Lennox
 
-Software engineer. BA in Computer Science and a Minor in Data Analytics, May 2026. Based in Moorhead, MN; open to relocating.
+A recent Computer Science graduate with a Data Analytics minor and hands-on project experience in safety-critical simulation, full
+stack web development, and predictive data modeling. I bring a test-first engineering mindset and a track record of shipping working 
+software for real clients and reviewers.
 
 ## What draws me
 
