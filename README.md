@@ -12,12 +12,11 @@ Working through the [Cyfrin Updraft](https://updraft.cyfrin.io/) Solidity and De
 
 ## Stack
 
-**Languages:** Java, C, JavaScript, Python, PHP, SQL, R
-**Web:** React 19, Vite, vanilla HTML/CSS/JS
-**Systems:** Linux, POSIX processes/threads/semaphores
-**Testing:** JUnit, vitest, pytest
-**Currently learning:** Solidity (Cyfrin Updraft), Rust
-**Practice:** Fault Tree Analysis, tests as specifications, reproducible analysis pipelines, MySQL/MariaDB administration
+- **Languages:** Java, C, JavaScript, Python, PHP, SQL, R
+- **Web:** React 19, Vite, vanilla HTML/CSS/JS
+- **Systems:** Linux, POSIX processes/threads/semaphores
+- **Testing:** JUnit, vitest, pytest
+- **Practice:** Fault Tree Analysis, tests as specifications, reproducible analysis pipelines, MySQL/MariaDB administration
 
 ## Get in touch
 
