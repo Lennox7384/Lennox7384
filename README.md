@@ -8,9 +8,7 @@ I gravitate toward problems where correctness is not optional: systems that fail
 
 ## Currently building
 
-Working through the [Cyfrin Updraft](https://updraft.cyfrin.io/) Solidity and DeFi curriculum, with particular interest in writing secure, auditable smart contracts and understanding adversarial attack vectors. First contracts land on this profile soon.
-
-The pinned repos below are the current lineup. More data and modeling work, with live rendered reports, lives in the [repositories tab](https://github.com/Lennox7384?tab=repositories).
+Working through the [Cyfrin Updraft](https://updraft.cyfrin.io/) Solidity and DeFi curriculum, with particular interest in writing secure, auditable smart contracts and understanding adversarial attack vectors.
 
 ## Stack
 
