@@ -4,7 +4,7 @@ A recent Computer Science graduate (Data Analytics minor) building toward DeFi a
 
 ## What draws me
 
-I gravitate toward problems where correctness is not optional: systems that fail loudly and expensively when they are wrong. Smart contract security is the sharpest form of that problem. The code is immutable on deployment, faces adversaries from block one, and a single oversight costs real money instead of just triggering a failed assertion. That is why I am pursuing work in DeFi and smart contract security, where reliable engineering is the difference between a system that holds and one that loses funds.
+I gravitate toward problems where correctness really matters: systems that fail loudly and expensively when they are wrong. Smart contract security is the sharpest form of that problem. The code is immutable on deployment, faces adversaries from block one, and a single oversight costs real money instead of just triggering a failed assertion. That is why I am pursuing work in DeFi and smart contract security, where reliable engineering is the difference between a system that holds and one that loses funds.
 
 ## Currently Learning
 
