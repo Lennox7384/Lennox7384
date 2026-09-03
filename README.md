@@ -1,12 +1,13 @@
 # Hi, I'm Lennox
 
-A recent Computer Science graduate (Data Analytics minor) building toward DeFi and smart contract security. I have hands-on experience building safety-critical simulations, full-stack web applications, and data-driven systems, and I approach engineering with a strong focus on reliability and failure modes.
+A recent Computer Science graduate (Data Analytics minor) building toward DeFi and smart contract security. I have hands-on experience building safety-critical simulations, full-stack web applications, and data-driven systems, and I approach engineering with a focus on reliability and failure modes.
 
 ## What draws me
 
-I gravitate toward problems where correctness really matters: systems that fail loudly and expensively when they are wrong. Smart contract security is the sharpest form of that problem. The code is immutable on deployment, faces adversaries from block one, and a single oversight costs real money instead of just triggering a failed assertion. That is why I am pursuing work in DeFi and smart contract security, where reliable engineering is the difference between a system that holds and one that loses funds.
+I gravitate toward problems where reliability really matters: systems that fail loudly and expensively when they are wrong. Smart contract security is the sharpest form of this problem. The code is immutable on deployment, faces adversaries, and a single oversight costs huge sums.
 
-## Currently Learning
+
+## Currently Focus
 
 Working through the [Cyfrin Updraft](https://updraft.cyfrin.io/) Solidity and DeFi curriculum, with a focus on writing secure, auditable smart contracts and understanding common attack vectors.
 
