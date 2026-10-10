@@ -7,7 +7,7 @@ A recent Computer Science graduate (Data Analytics minor) building toward DeFi a
 I gravitate toward problems where reliability really matters: systems that fail loudly and expensively when they are wrong. Smart contract security is the sharpest form of this problem. The code is immutable on deployment, faces adversaries, and a single oversight costs huge sums.
 
 
-## Currently Focus
+## Current Focus
 
 Working through the [Cyfrin Updraft](https://updraft.cyfrin.io/) Solidity and DeFi curriculum, with a focus on writing secure, auditable smart contracts and understanding common attack vectors.
 
